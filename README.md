@@ -13,6 +13,11 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+### 🏆 GitHub Achievements
+- 🦈 Pull Shark  
+- ⚡ Quickdraw  
+- 💥 YOLO  
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahimarawat0707&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
