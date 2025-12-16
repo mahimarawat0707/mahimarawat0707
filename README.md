@@ -16,7 +16,18 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahimarawat0707&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mahimarawat0707&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 LeetCode Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/mahimarawat0707?theme=dark&font=Karma)
+
+## 🥇 LeetCode Badges
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Quest_architecture.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" width="100"/>
+</p>  
+---
