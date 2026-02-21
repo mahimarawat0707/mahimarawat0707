@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="100"/>
