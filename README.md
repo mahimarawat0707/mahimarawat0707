@@ -33,6 +33,7 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/others/Quest_architecture.gif" width="100"/>
   <img src="https://assets.leetcode.com/static_assets/others/Quest_data.gif" width="100"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="100"/>
 </p>  
 
 
