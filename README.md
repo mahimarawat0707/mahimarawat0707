@@ -8,9 +8,6 @@
 - ⚡ Quickdraw  
 - 💥 YOLO  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahimarawat0707&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mahimarawat0707?theme=dark&font=Karma)
